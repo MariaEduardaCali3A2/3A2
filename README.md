@@ -5,7 +5,7 @@ Repositório da turma 3A2
 
 Sejam todos bem vindos!
 
-![](https://tenor.com/pt-BR/view/the-powerpuff-girls-bed-time-sleep-time-sleepy-tired-gif-10209091)
+! [](https://tenor.com/pt-BR/view/the-powerpuff-girls-bed-time-sleep-time-sleepy-tired-gif-10209091)
 
 contato email 📧 mbacelar2005@gmail.com
 
