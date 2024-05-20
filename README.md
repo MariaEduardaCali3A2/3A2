@@ -1,9 +1,11 @@
-# 3A2
+#3A2
+Repositório da turma 3A2
 
-Repositório da Turma 3A2
+#Este é o repositório da aluna "Maria Eduarda Cali"
 
 Sejam todos bem vindos!
 
-![https://tenor.com/pt-BR/search/the-powerpuff-girls-gifs] ()
+![](https://tenor.com/pt-BR/view/the-powerpuff-girls-bed-time-sleep-time-sleepy-tired-gif-10209091)
 
-Contato email: mbacelar2005@gmail.com
+contato email 📧 mbacelar2005@gmail.com
+
