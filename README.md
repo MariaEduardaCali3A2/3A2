@@ -5,7 +5,7 @@ Repositório da turma 3A2
 
 Sejam todos bem vindos!
 
-! [](https://media1.tenor.com/m/o__UuwojXA4AAAAC/the-powerpuff-girls-bed-time.gif)
+![](https://media1.tenor.com/m/o__UuwojXA4AAAAC/the-powerpuff-girls-bed-time.gif)
 
 contato email 📧 mbacelar2005@gmail.com
 
